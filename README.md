@@ -1,5 +1,8 @@
 # Weekly Supervised Deep Embedding Product Review for Sentiment Analysis 
+# Author : Aditya Kasturi 
 Weakly-supervised Deep Embedding for Product Review Sentiment Analysis
+
+**Link to the Actual Paper :** https://ieeexplore.ieee.org/document/8051113
 
 **Abstract:**
 Product reviews are valuable for upcoming buyers in helping them make decisions. To this end, different opinion mining techniques have been proposed, where judging a review sentence's orientation (e.g., positive or negative) is one of their key challenges. Recently, deep learning has emerged as an effective means for solving sentiment classification problems. A neural network intrinsically learns a useful representation automatically without human efforts. However, the success of deep learning highly relies on the availability of large-scale training data. We propose a novel deep learning framework for product review sentiment classification which employs prevalently available ratings as weak supervision signals. The framework consists of two steps: (1) learning a high level representation (an embedding space) which captures the general sentiment distribution of sentences through rating information; and (2) adding a classification layer on top of the embedding layer and use labeled sentences for supervised fine-tuning. We explore two kinds of low level network structure for modeling review sentences, namely, convolutional feature extractors and long short-term memory. To evaluate the proposed framework, we construct a dataset containing 1.1M weakly labeled review sentences and 11,754 labeled review sentences from Amazon. Experimental results show the efficacy of the proposed framework and its superiority over baselines.
@@ -74,6 +77,7 @@ Now in above screen we can see input is identified as positive
 
 Now click on ‘Sentiment Prediction Graph’ button to identify total positive and negative reviews in graph
 ![image](https://user-images.githubusercontent.com/95768375/161123957-b939aacc-8e99-444d-9690-27d6b2605e1d.png)
+
 
 
 
