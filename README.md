@@ -1,5 +1,5 @@
 # Weekly Supervised Deep Embedding Product Review for Sentiment Analysis 
-# Author : Aditya Kasturi 
+
 Weakly-supervised Deep Embedding for Product Review Sentiment Analysis
 
 **Link to the Actual Paper :** https://ieeexplore.ieee.org/document/8051113
